@@ -10,7 +10,7 @@ fork in run := false
 
 libraryDependencies += guice
 libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "3.1.2" % Test
-libraryDependencies +=  "org.scalaj" %% "scalaj-http" % "2.4.0"
+libraryDependencies += "org.scalaj" %% "scalaj-http" % "2.4.0"
 
 // Adds additional packages into Twirl
 //TwirlKeys.templateImports += "com.example.controllers._"
