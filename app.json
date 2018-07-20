@@ -1,0 +1,5 @@
+{
+  "name": "Start on Heroku: Scala",
+  "description": "A barebones Scala app (using the Play framework), which can easily be deployed to Heroku.",
+  "image": "heroku/scala"
+}
